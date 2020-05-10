@@ -1,0 +1,17 @@
+/**
+ * @package		##package##
+ * @subpackage	##subpackage##
+ * @author		##author##
+ * @copyright 	##copyright##
+ * @license		##license##
+ * @version		##version##
+ */
+
+.slideshowflat .flex-direction-nav li a {
+	top:0px;
+	z-index:11
+}
+
+.slideshowflat .slide-controller i {
+	display: none;
+}

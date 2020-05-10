@@ -1,0 +1,21 @@
+// Import js
+////= lib/webfont.js
+////= lib/watch.js
+////= lib/mootools-core.js
+////= lib/core.js
+////= lib/caption.js
+////= lib/jquery-1.8.3.min.js
+////= lib/jquery-noconflict.js
+////= lib/jquery.noconflict.js
+////= lib/bootstrap.js
+////= lib/off-canvas.js
+////= lib/script.js
+////= lib/menu.js
+////= lib/responsive.js
+////= lib/jquery.equalheight.js
+////= lib/html5.js
+////= lib/respond.min.js
+////= lib/jquery.easing.1.3.js
+////= lib/jquery.liquid-slider-custom.min.js
+////= lib/template.js
+////= lib/jquery.flexslider.min.js
